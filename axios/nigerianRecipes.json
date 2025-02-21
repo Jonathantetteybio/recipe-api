@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Jollof Rice",
+    "ingredients": ["Rice", "Tomatoes", "Peppers", "Onions", "Oil"],
+    "instructions": "Cook rice in tomato-based sauce.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Egusi Soup",
+    "ingredients": ["Egusi seeds", "Vegetables", "Meat/Fish", "Palm oil"],
+    "instructions": "Cook egusi soup with vegetables and meat/fish.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Pounded Yam",
+    "ingredients": ["Yam"],
+    "instructions": "Pound boiled yam into a smooth paste.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Efo Riro",
+    "ingredients": ["Spinach", "Pepper", "Palm oil", "Meat/Fish"],
+    "instructions": "Cook spinach stew with pepper and meat/fish.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Afang Soup",
+    "ingredients": ["Afang leaves", "Water leaves", "Meat/Fish", "Palm oil"],
+    "instructions": "Cook afang soup with water leaves and meat/fish.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Ogbono Soup",
+    "ingredients": ["Ogbono seeds", "Meat/Fish", "Vegetables", "Palm oil"],
+    "instructions": "Cook ogbono soup with meat/fish and vegetables.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Bitterleaf Soup",
+    "ingredients": ["Bitterleaf", "Meat/Fish", "Palm oil", "Yam"],
+    "instructions": "Cook bitterleaf soup with meat/fish and yam.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Moi Moi",
+    "ingredients": ["Beans", "Peppers", "Onions", "Fish/Meat"],
+    "instructions": "Steam blended beans with peppers and fish/meat.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Akara",
+    "ingredients": ["Beans", "Peppers", "Onions"],
+    "instructions": "Fry blended beans with peppers and onions.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Suya",
+    "ingredients": ["Meat", "Suya spice", "Peanut oil"],
+    "instructions": "Grill spiced meat.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Banga Soup",
+    "ingredients": ["Palm fruit", "Fish/Meat", "Spices"],
+    "instructions": "Cook palm fruit soup with fish/meat and spices.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Edikang Ikong Soup",
+    "ingredients": ["Pumpkin leaves", "Water leaves", "Meat/Fish", "Palm oil"],
+    "instructions": "Cook pumpkin and water leaves soup with meat/fish.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Okra Soup",
+    "ingredients": ["Okra", "Meat/Fish", "Palm oil", "Peppers"],
+    "instructions": "Cook okra soup with meat/fish and peppers.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Amala",
+    "ingredients": ["Yam flour"],
+    "instructions": "Cook yam flour into a thick paste.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Tuwo Shinkafa",
+    "ingredients": ["Rice flour"],
+    "instructions": "Cook rice flour into a thick paste.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Plantain Porridge",
+    "ingredients": ["Plantains", "Palm oil", "Fish/Meat"],
+    "instructions": "Cook plantains in palm oil with fish/meat.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Nigerian Fried Rice",
+    "ingredients": ["Rice", "Vegetables", "Liver/Chicken", "Spices"],
+    "instructions": "Fry rice with vegetables and liver/chicken.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Coconut Rice",
+    "ingredients": ["Rice", "Coconut milk", "Vegetables", "Spices"],
+    "instructions": "Cook rice in coconut milk with vegetables.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Ofada Rice",
+    "ingredients": ["Ofada rice", "Stew", "Locust beans"],
+    "instructions": "Serve ofada rice with stew and locust beans.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Kilishi",
+    "ingredients": ["Beef", "Spices"],
+    "instructions": "Dry and spice beef.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Dambu Nama",
+    "ingredients": ["Meat", "Spices"],
+    "instructions": "Shredded and spiced meat.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Groundnut Soup (Peanut Soup)",
+    "ingredients": ["Groundnuts", "Meat/Fish", "Vegetables"],
+    "instructions": "Cook groundnut soup with meat/fish and vegetables.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Pepper Soup",
+    "ingredients": ["Meat/Fish", "Peppers", "Spices"],
+    "instructions": "Cook meat/fish in spicy pepper broth.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Nkwobi",
+    "ingredients": ["Cow leg", "Spices", "Palm oil"],
+    "instructions": "Cook cow leg in spicy palm oil sauce.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Isi Ewu",
+    "ingredients": ["Goat head", "Spices", "Palm oil"],
+    "instructions": "Cook goat head in spicy palm oil sauce.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Ukwa (Breadfruit Porridge)",
+    "ingredients": ["Breadfruit", "Palm oil", "Fish/Meat"],
+    "instructions": "Cook breadfruit in palm oil with fish/meat.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Achicha",
+    "ingredients": ["Dried cocoyam", "Palm oil", "Fish/Meat"],
+    "instructions": "Cook dried cocoyam with palm oil and fish/meat.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Ofe Onugbu",
+    "ingredients": ["Bitterleaf", "Cocoyam", "Meat/Fish"],
+    "instructions": "Bitterleaf soup with cocoyam and meat/fish.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "White Soup (Ofe Nsala)",
+    "ingredients": ["Fish/Meat", "Yam", "Spices"],
+    "instructions": "Cook white soup with fish/meat and yam.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Ekpang Nkukwo",
+    "ingredients": ["Cocoyam", "Water yam", "Vegetables", "Palm oil"],
+    "instructions": "Cocoyam and water yam pudding.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Gizdodo",
+    "ingredients": ["Gizzard", "Plantain", "Peppers"],
+    "instructions": "Cook gizzard and plantain with peppers.",
+    "country": "NG",
+    "image_url": "replace_me.jpg"
+  }
+]

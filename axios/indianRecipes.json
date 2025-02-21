@@ -1,0 +1,373 @@
+[
+  {
+    "name": "Butter Chicken",
+    "ingredients": [
+      "Chicken",
+      "Butter",
+      "Tomatoes",
+      "Onions",
+      "Cream",
+      "Spices"
+    ],
+    "instructions": "Marinate and cook chicken in a creamy tomato-based sauce.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Tandoori Chicken",
+    "ingredients": ["Chicken", "Yogurt", "Spices", "Lemon juice"],
+    "instructions": "Marinate chicken in yogurt and spices, then cook in a tandoor.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Biryani",
+    "ingredients": ["Rice", "Meat/Vegetables", "Spices", "Yogurt"],
+    "instructions": "Cook rice and meat/vegetables with spices and yogurt.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Samosa",
+    "ingredients": ["Flour", "Potatoes", "Peas", "Spices"],
+    "instructions": "Fill dough with potato and pea mixture, then deep fry.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Naan",
+    "ingredients": ["Flour", "Yogurt", "Butter"],
+    "instructions": "Bake flatbread dough in a tandoor.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Palak Paneer",
+    "ingredients": ["Spinach", "Paneer cheese", "Tomatoes", "Onions", "Spices"],
+    "instructions": "Cook paneer cheese in a creamy spinach sauce.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Dal Makhani",
+    "ingredients": ["Lentils", "Butter", "Cream", "Spices"],
+    "instructions": "Cook lentils with butter, cream, and spices.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Chana Masala",
+    "ingredients": ["Chickpeas", "Tomatoes", "Onions", "Spices"],
+    "instructions": "Cook chickpeas in a tomato-based sauce with spices.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Rogan Josh",
+    "ingredients": ["Lamb", "Yogurt", "Spices", "Oil"],
+    "instructions": "Cook lamb in a yogurt-based sauce with spices.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Malai Kofta",
+    "ingredients": ["Potatoes", "Paneer cheese", "Nuts", "Spices"],
+    "instructions": "Deep fry potato and paneer balls in a creamy sauce.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Aloo Gobi",
+    "ingredients": ["Potatoes", "Cauliflower", "Spices", "Oil"],
+    "instructions": "Cook potatoes and cauliflower with spices.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Baingan Bharta",
+    "ingredients": ["Eggplant", "Tomatoes", "Onions", "Spices"],
+    "instructions": "Roast and mash eggplant, then cook with tomatoes, onions, and spices.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Dosa",
+    "ingredients": ["Rice", "Lentils"],
+    "instructions": "Ferment rice and lentil batter, then cook into thin crepes.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Idli",
+    "ingredients": ["Rice", "Lentils"],
+    "instructions": "Steam fermented rice and lentil batter.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Vada",
+    "ingredients": ["Lentils", "Spices"],
+    "instructions": "Deep fry spiced lentil batter.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Uttapam",
+    "ingredients": ["Rice", "Lentils", "Vegetables"],
+    "instructions": "Cook fermented rice and lentil batter with toppings.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Pani Puri",
+    "ingredients": ["Flour", "Potatoes", "Spiced water"],
+    "instructions": "Fill fried dough balls with potato mixture and spiced water.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Bhel Puri",
+    "ingredients": ["Puffed rice", "Vegetables", "Chutney"],
+    "instructions": "Mix puffed rice with vegetables and chutney.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Pav Bhaji",
+    "ingredients": ["Bread", "Vegetable curry"],
+    "instructions": "Serve bread with vegetable curry.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Chole Bhature",
+    "ingredients": ["Chickpeas", "Fried bread"],
+    "instructions": "Serve chickpea curry with fried bread.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Gulab Jamun",
+    "ingredients": ["Milk solids", "Sugar syrup"],
+    "instructions": "Deep fry milk solid balls and soak in sugar syrup.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Jalebi",
+    "ingredients": ["Flour", "Sugar syrup"],
+    "instructions": "Deep fry batter in circular shapes and soak in sugar syrup.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Rasmalai",
+    "ingredients": ["Paneer cheese", "Milk", "Sugar"],
+    "instructions": "Cook paneer cheese balls in sweet milk.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Kaju Katli",
+    "ingredients": ["Cashews", "Sugar", "Milk"],
+    "instructions": "Make cashew and sugar fudge.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Mysore Pak",
+    "ingredients": ["Gram flour", "Sugar", "Ghee"],
+    "instructions": "Cook gram flour with sugar and ghee.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Modak",
+    "ingredients": ["Rice flour", "Coconut", "Jaggery"],
+    "instructions": "Steam rice flour dumplings filled with coconut and jaggery.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Payasam",
+    "ingredients": ["Rice", "Milk", "Sugar", "Nuts"],
+    "instructions": "Cook rice pudding with milk, sugar, and nuts.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Shrikhand",
+    "ingredients": ["Yogurt", "Sugar", "Saffron"],
+    "instructions": "Strain yogurt, mix with sugar and saffron.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Aamras",
+    "ingredients": ["Mangoes", "Sugar", "Cardamom"],
+    "instructions": "Blend mangoes with sugar and cardamom.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Kulfi",
+    "ingredients": ["Milk", "Sugar", "Nuts", "Saffron"],
+    "instructions": "Freeze reduced milk with sugar, nuts, and saffron.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Falooda",
+    "ingredients": ["Rose syrup", "Milk", "Vermicelli", "Basil seeds"],
+    "instructions": "Layer rose syrup, milk, vermicelli, and basil seeds.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Masala Chai",
+    "ingredients": ["Tea leaves", "Milk", "Spices", "Sugar"],
+    "instructions": "Boil tea leaves with milk, spices, and sugar.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Lassi",
+    "ingredients": ["Yogurt", "Water", "Sugar/Salt"],
+    "instructions": "Blend yogurt with water and sugar/salt.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Thandai",
+    "ingredients": ["Milk", "Nuts", "Spices", "Sugar"],
+    "instructions": "Blend milk with nuts, spices, and sugar.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Nimbu Pani (Lemonade)",
+    "ingredients": ["Lemon juice", "Water", "Sugar", "Salt"],
+    "instructions": "Mix lemon juice with water, sugar, and salt.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Jaljeera",
+    "ingredients": ["Cumin", "Ginger", "Black pepper", "Water"],
+    "instructions": "Mix spices with water.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Aloo Tikki",
+    "ingredients": ["Potatoes", "Spices", "Oil"],
+    "instructions": "Fry spiced potato patties.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Dahi Vada",
+    "ingredients": ["Lentil fritters", "Yogurt", "Chutney"],
+    "instructions": "Soak lentil fritters in yogurt and top with chutney.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Kachori",
+    "ingredients": ["Flour", "Lentils", "Spices"],
+    "instructions": "Deep fry flour pastry filled with spiced lentils.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Pakora",
+    "ingredients": ["Vegetables", "Gram flour", "Spices"],
+    "instructions": "Deep fry vegetable fritters.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Bread Pakora",
+    "ingredients": ["Bread", "Gram flour", "Spices"],
+    "instructions": "Deep fry spiced bread fritters.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Sarson ka Saag",
+    "ingredients": ["Mustard greens", "Spices", "Butter"],
+    "instructions": "Cook mustard greens with spices and butter.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Makki ki Roti",
+    "ingredients": ["Corn flour"],
+    "instructions": "Cook corn flour flatbreads.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Rajma Chawal",
+    "ingredients": ["Kidney beans", "Rice", "Spices"],
+    "instructions": "Cook kidney beans with spices and serve with rice.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Kadai Paneer",
+    "ingredients": ["Paneer cheese", "Bell peppers", "Onions", "Spices"],
+    "instructions": "Cook paneer cheese with bell peppers, onions, and spices.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Vegetable Pulao",
+    "ingredients": ["Rice", "Vegetables", "Spices"],
+    "instructions": "Cook rice with vegetables and spices.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Mutton Curry",
+    "ingredients": ["Mutton", "Onions", "Tomatoes", "Spices"],
+    "instructions": "Cook mutton in a tomato-based sauce with spices.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Fish Curry",
+    "ingredients": ["Fish", "Coconut milk", "Spices"],
+    "instructions": "Cook fish in a coconut milk-based sauce with spices.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "ingredients": ["Chicken", "Tomatoes", "Onions", "Cream", "Spices"],
+    "instructions": "Cook chicken in a creamy tomato-based sauce with spices.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Vindaloo",
+    "ingredients": ["Meat/Vegetables", "Vinegar", "Potatoes", "Spices"],
+    "instructions": "Cook meat/vegetables with vinegar, potatoes, and spices.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Korma",
+    "ingredients": ["Meat/Vegetables", "Yogurt", "Nuts", "Spices"],
+    "instructions": "Cook meat/vegetables in a creamy yogurt-based sauce with nuts and spices.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  },
+  {
+    "name": "Saag Paneer",
+    "ingredients": ["Spinach", "Paneer cheese", "Spices"],
+    "instructions": "Cook spinach with paneer cheese and spices.",
+    "country": "IN",
+    "image_url": "replace_me.jpg"
+  }
+]
