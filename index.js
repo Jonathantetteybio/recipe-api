@@ -25,6 +25,11 @@ mongoose
 // Routes
 app.use("/recipes", recipeRoutes);
 
+// route path
+app.get("/", (req, res) => {
+  res.send("Welcome to the Recipe API!"); // Or any desired response
+});
+
 // Start server
 app.listen(PORT, () => {
   console.log(`Server listening on port ${PORT}`);
